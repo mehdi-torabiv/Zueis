@@ -1,7 +1,6 @@
 ### Hi there,
 </br>
-I'm a front-end developer with more than three years of experience; I'm implementing many projects like an e-commerce shop, an online platform for classes, and a crypto exchange site.
-I like to learn new tools and languages to improve my skills, and I am a motivated person to know more about development. 
+As a Frontend Engineer with 6 years of experience, I specialize in Vue.js and recently learned React.js. I have contributed to various projects, collaborating with cross-functional teams to develop high-performance and scalable web applications. My attention to detail and ability to solve complex problems has been integral to my success in delivering results.
 
 <hr>
 
