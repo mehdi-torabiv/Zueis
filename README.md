@@ -1,6 +1,6 @@
 ### Hi there,
 </br>
-As a Frontend Engineer with 4 years of experience, I specialize in Vue.js and recently learned React.js. I have contributed to various projects, collaborating with cross-functional teams to develop high-performance and scalable web applications. My attention to detail and ability to solve complex problems has been integral to my success in delivering results.
+Front-end Engineer with +5 years' experience, including a year in back-end development, skilled at creating seamless user experiences both for startups and large-scale products. In addition to his strong work ethic, clear communication, and problem-solving ability, he is renowned for ensuring the success of all development products.
 
 <hr>
 
